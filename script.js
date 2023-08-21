@@ -72,7 +72,7 @@ let questionBank = [
         "Live Jesus in our hearts, _____."
     ],
     [
-        ["ordinary; uniquely", true],
+        ["ordinary; uniquely", false],
         ["mundane; extraordinarily", false],
         ["ordinary; extraordinarily", true],
         "Do ___________ things, __________ well."
